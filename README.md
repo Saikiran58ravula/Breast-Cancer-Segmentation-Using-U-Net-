@@ -83,6 +83,16 @@ Breast-Cancer-Segmentation-U-Net/
 ├── requirements.txt
 └── README.md
 
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/project-name.git
+cd project-name
+pip install -r requirements.txt
+python train.py
+
 🔬 Applications
 Early breast cancer detection
 Medical image analysis
