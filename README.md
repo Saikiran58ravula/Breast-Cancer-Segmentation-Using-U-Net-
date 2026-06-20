@@ -89,11 +89,11 @@ python evaluate.py
 ## Screenshots
 
 ### Training Metrics
-![Training Metrics](screenshots/training_metrics.png)
+![Training Metrics](training_metrics.png)
 
 ### Prediction Samples
-![Prediction Sample 1](screenshots/prediction_sample_1.png)
-![Prediction Sample 2](screenshots/prediction_sample_2.png)
+![Prediction Sample 1](prediction_sample_1.png)
+![Prediction Sample 2](prediction_sample_2.png)
 
 ## Output Samples
 
