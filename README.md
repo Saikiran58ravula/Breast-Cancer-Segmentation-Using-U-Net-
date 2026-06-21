@@ -80,11 +80,13 @@ python evaluate.py
 
 | Metric | Score |
 |---|---|
-| Dice Coefficient | 0.XX |
-| IoU (Intersection over Union) | 0.XX |
-| Accuracy | 0.XX |
-| Precision | 0.XX |
-| Recall | 0.XX |
+| Dice Coefficient | 0.31 |
+| Accuracy | 0.91 |
+| IoU | 0.19 |
+| Precision | Pending full evaluation |
+| Recall | Pending full evaluation |
+
+*Trained for 50 epochs (early stopping triggered) on the BUSI ultrasound dataset using a combined Dice + Focal loss. Model converged with learning rate decay from 1e-4 to ~2.4e-7.*
 
 ## Screenshots
 
